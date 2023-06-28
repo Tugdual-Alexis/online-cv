@@ -6,7 +6,7 @@ const Contact = () => {
     <div name='contact' className='w-full md:h-screen bg-[--backgroundI] flex justify-center items-center py-20 px-8'>
         <form method='POST' action="https://getform.io/f/57a74525-89e0-4db7-b7ec-b5d4363195df" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8 text-center text-[--text-primary]'>
-                <h3 className='text-[42px] font-bold tracking-wider'>Contact</h3>
+                <h3 className='text-[42px] font-bold tracking-wider'>TEEEST</h3>
                 <p className='text-xl py-4'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet, autem.</p>
             </div>
             <div className=' font-bold tracking-wider'>
